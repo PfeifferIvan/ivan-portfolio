@@ -1,0 +1,36 @@
+/* header and navbar css */
+
+#navbar {
+  background-color: rgb(34, 46, 80);
+  padding: 15px;
+}
+
+#navbar a {
+  color: white;
+}
+
+button#login {
+  color: white;
+  border: 1px solid white;
+}
+
+button#login:hover {
+  background-color: #0080ff;
+}
+
+/* Footer css  */
+
+a#linkedin {
+  background-color: #0082ca;
+  font-size: 20px;
+}
+
+a#github {
+  background-color: #333333;
+  font-size: 20px;
+}
+
+a#whatsapp {
+  background-color: #25d366;
+  font-size: 20px;
+}
