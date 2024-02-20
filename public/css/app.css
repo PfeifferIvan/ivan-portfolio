@@ -9,6 +9,10 @@
   color: white;
 }
 
+#burger-menu {
+  border: 1px solid white;
+}
+
 button#login {
   color: white;
   border: 1px solid white;
